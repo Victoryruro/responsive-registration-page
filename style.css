@@ -62,7 +62,7 @@ input, button{
     border: 0.2px solid;
     padding-left: 25px;
 
-}  
+} 
 button{
     background-color:hsl(154, 59%, 51%);
     color: white;
@@ -81,7 +81,7 @@ button{
     opacity: 1;
 }
 #header-form{
-    width: 360px;
+    width:94%;
     height: 20px;
     padding: 10px;
     background-color: hsl(248, 32%, 49%);
@@ -116,7 +116,19 @@ a{
     }
     #header-form{
         width: 270px;
-        font-size: small;
+        height: 20%;
+        word-wrap: wrap;
+        font-size: 18px;
+        
+    }
+    .firstcard-p{
+        font-size:12px;
+        margin-left: 15px;
+        text-align: center;
+    }
+    .firstcard{
+        text-align: center;
+        margin-left: 15px;
     }
 
     
